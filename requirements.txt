@@ -1,5 +1,5 @@
-streamlit
-translate
-gtts
-playsound
-geopy
+streamlit==1.26.0
+googletrans==4.0.0-rc1
+gtts==2.3.2
+playsound==1.2.2
+geopy==2.3.0
