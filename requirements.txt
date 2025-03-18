@@ -1,0 +1,6 @@
+streamlit
+translate
+gtts
+playsound
+requests
+geopy
